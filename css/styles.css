@@ -1,0 +1,99 @@
+.lobster {
+    font-family: 'lobster', cursive;
+    color: white;
+}
+.first-img {
+    background-image: url(/img/black-lego.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px;
+    width: 100%;
+}
+.fb {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.hero-content {
+    height: 350px;
+    padding-bottom: 55px;
+}
+.hero-content-tb {
+    height: 455px;
+}
+body {
+    background-color: black;
+    background-image: url(/img/black-lego.png);
+}
+.atat {
+    /* The image used */
+    background-image: url(/img/AT-AT.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.star-d {
+    /* The image used */
+    background-image: url(/img/stardestroyer.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.clone-wars {
+    /* The image used */
+    background-image: url(/img/Clone\ Wars.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.random-sets {
+    /* The image used */
+    background-image: url(/img/Star\ Wars.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .w {
+    color: white;
+  }
+  .text-box {
+    background: black;
+    padding: 5px;
+    opacity: 75%;
+  }
+.border-box {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.split {
+    height: 250px;
+    background-image: url(/img/black-lego.png);
+}
+footer {
+    background-image: url(/img/black-lego.png);
+    padding: 50px;
+}
